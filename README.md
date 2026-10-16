@@ -45,8 +45,8 @@ This workshop will explore how to
 * satisfy accessibility checkers
 * use a screen reader with an accessible PDF
 Attendees should have a laptop with an up to date LaTeX installation
-(compile a document that contains
-\IfFormatAtLeastF{\the\numexpr\number\year-1\relax-\number\month-\number\day}{not }{up to date}
+(compile a document that contains  
+\IfFormatAtLeastF{\the\numexpr\number\year-1\relax-\number\month-\number\day}{not }{up to date}  
 if you're not sure).
 Optional installations include https://verapdf.org/software, https://pdfix.net, https://www.foxit.com/pdf-reader/, and https://www.nvaccess.org/download
 
@@ -58,14 +58,17 @@ This workshop will explore how to
 * satisfy accessibility checkers
 * use a screen reader with an accessible PDF
 
-Additional Notes:
-I have converted three textbooks to be accessible PDFs, so I have thorough experience with the topic.
-
 <!--
 Audio-Visual Requirements: The standard set-up for most session rooms is an LCD projector and screen; projectors will default to 16:9 aspect ratio unless otherwise specified.
 Organizers of accepted sessions are expected to bring a presentation laptop and collect all session's presentation onto that device before the meeting.
 All device connections are HDMI, and all presenters are encouraged to bring their own HDMI device adapter.
+-->
 
+Additional Notes:
+<!--
 In Additional Notes, please include any additional information that may be relevant to session selection.
 This can include justification for why the session should be run and any other information you wish the committee to consider.
 -->
+I have thorough experience with the topic.
+I have converted three textbooks to be accessible PDFs, and have given two presentations on accessible PDFs at the 2026 TUG conference.
+The presentations resulted in two TUGboat articles and an additional case study article with the PDF Association.
