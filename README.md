@@ -10,7 +10,7 @@ Currently, I'm considering two different approaches for the workshop:
 The proposal instructions are available from https://maa.org/event/mathfest/ at
 https://maa.org/wp-content/uploads/2026/08/MAA-MathFest-Panel-Poster-Town-Hall-Workshop-Proposal-Instructions.pdf
 on page 3.
-That page is also included in this repository. 
+[That page is also included in this repository.](Workshop-Proposal-Instructions.pdf) 
 The requested information follows.
 Numbered items indicate according to which of the mentioned approaches I end up using.
 
