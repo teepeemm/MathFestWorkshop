@@ -18,7 +18,7 @@ Title: Creating accessible PDFs using LaTeX
 
 Proposal:
 <!-- Please detail how the program will function, any audience engagement planned, and how the program fits into any current trends in mathematics, mathematics education, or other themes. Including co-organizers or potential helpers in your proposal is recommended. -->
-The Department of Justice now requires that all documents be accessible.
+As of April 2027, the Department of Justice requires that all documents be accessible.
 The conventional wisdom is that LaTeX does not satisfy this requirement, not recognizing that over the past few years LaTeX has gained the ability to create completely accessible documents by default.
 Workshop participants will be directed to https://teepeemm.github.io/accessibility/, which will have directions for:
 * creating an accessible PDF using LaTeX
@@ -26,43 +26,53 @@ Workshop participants will be directed to https://teepeemm.github.io/accessibili
 * creating an accessible PDF presentation using LaTeX
 * satisfying accessibility checkers
 * using a screen reader with an accessible PDF
-1. We will work through various documents exploring those directions.
+
+1. We will work through various examples documents exploring those directions.
 2. Participants will be encouraged to explore their own accessible documents, while I facilitate and answer questions that arise.
 
 Workshop structure:
 <!-- Please provide a sense of how long participants are listening versus actively working versus working in groups or engaging in other interactive activities. -->
+
 The vast majority of time will be participants creating and interacting with accessible documents on their own laptops.
 
 Main Takeaways
+
+The ability to create accessible PDFs using LaTeX and to validate that has occurred.
+Knowing how to use a screen reader to interact with accessible documents.
 
 Full Description:
 <!-- Please include a description of your session for potential attendees; this will be included in web and app listings. -->
 The Department of Justice now requires that all documents be accessible.
 This workshop will explore how to
-* use up to date LaTeX to create accessible documents
+* use up to date LaTeX to create accessible PDFs
 * validate that a PDF is accessible
-* use up to date LaTeX to create accessible presentations
+* use up to date LaTeX to create accessible PDF presentations
 * satisfy accessibility checkers
 * use a screen reader with an accessible PDF
+* accessibly reproduce common LaTeX constructions 
+
 Attendees should have a laptop with an up to date LaTeX installation
-(compile a document that contains  
+(compile a document with body  
 \IfFormatAtLeastF{\the\numexpr\number\year-1\relax-\number\month-\number\day}{not }{up to date}  
 if you're not sure).
 Optional installations include https://verapdf.org/software, https://pdfix.net, https://www.foxit.com/pdf-reader/, and https://www.nvaccess.org/download
 
 Short Listing/Abstract:
 <!-- Please provide a 60-word session description that may be published in the chronological schedule and printed publications -->
+The Department of Justice now requires that all documents be accessible.
 This workshop will explore how to
-* use LaTeX to create accessible documents and presentations
+* use up to date LaTeX to create accessible PDFs and PDF presentations
 * validate that a PDF is accessible
-* satisfy accessibility checkers
 * use a screen reader with an accessible PDF
+* accessibly reproduce common LaTeX constructions 
 
+Audio-Visual Requirements:
 <!--
-Audio-Visual Requirements: The standard set-up for most session rooms is an LCD projector and screen; projectors will default to 16:9 aspect ratio unless otherwise specified.
+ The standard set-up for most session rooms is an LCD projector and screen; projectors will default to 16:9 aspect ratio unless otherwise specified.
 Organizers of accepted sessions are expected to bring a presentation laptop and collect all session's presentation onto that device before the meeting.
 All device connections are HDMI, and all presenters are encouraged to bring their own HDMI device adapter.
 -->
+A projector and screen as well as speakers to play audio from a laptop.
 
 Additional Notes:
 <!--
@@ -70,5 +80,5 @@ In Additional Notes, please include any additional information that may be relev
 This can include justification for why the session should be run and any other information you wish the committee to consider.
 -->
 I have thorough experience with the topic.
-I have converted three textbooks to be accessible PDFs, and have given two presentations on accessible PDFs at the 2026 TUG conference.
+I have converted three textbooks to be accessible PDFs, and gave two presentations on accessible PDFs at the 2026 TUG conference.
 The presentations resulted in two TUGboat articles and an additional case study article with the PDF Association.
