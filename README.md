@@ -14,9 +14,9 @@ That page is also included in this repository.
 The requested information follows.
 Numbered items indicate according to which of the mentioned approaches I end up using.
 
-Title: Creating accessible PDFs using LaTeX
+## Title: Creating accessible PDFs using LaTeX
 
-Proposal:
+## Proposal:
 <!-- Please detail how the program will function, any audience engagement planned, and how the program fits into any current trends in mathematics, mathematics education, or other themes. Including co-organizers or potential helpers in your proposal is recommended. -->
 As of April 2027, the Department of Justice requires that all documents be accessible.
 The conventional wisdom is that LaTeX does not satisfy this requirement, not recognizing that over the past few years LaTeX has gained the ability to create completely accessible documents by default.
@@ -30,17 +30,17 @@ Workshop participants will be directed to https://teepeemm.github.io/accessibili
 1. We will work through various examples documents exploring those directions.
 2. Participants will be encouraged to explore their own accessible documents, while I facilitate and answer questions that arise.
 
-Workshop structure:
+## Workshop structure:
 <!-- Please provide a sense of how long participants are listening versus actively working versus working in groups or engaging in other interactive activities. -->
 
 The vast majority of time will be participants creating and interacting with accessible documents on their own laptops.
 
-Main Takeaways
+## Main Takeaways
 
 The ability to create accessible PDFs using LaTeX and to validate that has occurred.
 Knowing how to use a screen reader to interact with accessible documents.
 
-Full Description:
+## Full Description:
 <!-- Please include a description of your session for potential attendees; this will be included in web and app listings. -->
 The Department of Justice now requires that all documents be accessible.
 This workshop will explore how to
@@ -57,7 +57,7 @@ Attendees should have a laptop with an up to date LaTeX installation
 if you're not sure).
 Optional installations include https://verapdf.org/software, https://pdfix.net, https://www.foxit.com/pdf-reader/, and https://www.nvaccess.org/download
 
-Short Listing/Abstract:
+## Short Listing/Abstract:
 <!-- Please provide a 60-word session description that may be published in the chronological schedule and printed publications -->
 The Department of Justice now requires that all documents be accessible.
 This workshop will explore how to
@@ -66,7 +66,7 @@ This workshop will explore how to
 * use a screen reader with an accessible PDF
 * accessibly reproduce common LaTeX constructions 
 
-Audio-Visual Requirements:
+## Audio-Visual Requirements:
 <!--
  The standard set-up for most session rooms is an LCD projector and screen; projectors will default to 16:9 aspect ratio unless otherwise specified.
 Organizers of accepted sessions are expected to bring a presentation laptop and collect all session's presentation onto that device before the meeting.
@@ -74,7 +74,7 @@ All device connections are HDMI, and all presenters are encouraged to bring thei
 -->
 A projector and screen as well as speakers to play audio from a laptop.
 
-Additional Notes:
+## Additional Notes:
 <!--
 In Additional Notes, please include any additional information that may be relevant to session selection.
 This can include justification for why the session should be run and any other information you wish the committee to consider.
