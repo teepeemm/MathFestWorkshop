@@ -1,11 +1,7 @@
 # MathFestWorkshop
 
 This repository will be for an 80 minute workshop at the 2027 MathFest conference in New Orleans (Aug 4-7) on the topic of creating accessible PDFs using LaTeX.
-
-Currently, I'm considering two different approaches for the workshop:
-
-1. Have everyone compile the same collection of tex documents to show how everything works
-2. Post commonly needed instructions and ask participants to do what interests them, while I wander around the room and answer questions.
+The workshop will have everyone compile the same collection of tex documents to show how everything works.
 
 The proposal instructions are available from https://maa.org/event/mathfest/ at
 https://maa.org/wp-content/uploads/2026/08/MAA-MathFest-Panel-Poster-Town-Hall-Workshop-Proposal-Instructions.pdf
@@ -27,17 +23,19 @@ Workshop participants will be directed to https://teepeemm.github.io/accessibili
 * satisfying accessibility checkers
 * using a screen reader with an accessible PDF
 
-1. We will work through various examples documents exploring those directions.
-2. Participants will be encouraged to explore their own accessible documents, while I facilitate and answer questions that arise.
+We will work through various examples documents exploring those directions.
 
 ## Workshop structure:
 <!-- Please provide a sense of how long participants are listening versus actively working versus working in groups or engaging in other interactive activities. -->
 
+As detailed in the proposal, participants will be directed to work through several different example documents.
 The vast majority of time will be participants creating and interacting with accessible documents on their own laptops.
+Participants will listen to a screen reader reading an inaccessible PDF and an accessible PDF, which will only take a few minutes.
+The remainder of the time will be compiling LaTeX documents and interacting with the results. 
 
 ## Main Takeaways
 
-The ability to create accessible PDFs using LaTeX and to validate that has occurred.
+The ability to create accessible PDFs using LaTeX and to validate when that has occurred.
 Knowing how to use a screen reader to interact with accessible documents.
 
 ## Full Description:
@@ -55,7 +53,8 @@ Attendees should have a laptop with an up to date LaTeX installation
 (compile a document with body  
 \IfFormatAtLeastF{\the\numexpr\number\year-1\relax-\number\month-\number\day}{not }{up to date}  
 if you're not sure).
-Optional installations include https://verapdf.org/software, https://pdfix.net, https://www.foxit.com/pdf-reader/, and https://www.nvaccess.org/download
+Optional suggested installations include https://verapdf.org/software (requires Java), https://pdfix.net (requires Java), https://www.foxit.com/pdf-reader/, and https://www.nvaccess.org/download.
+The first two installations also require a Java installation.
 
 ## Short Listing/Abstract:
 <!-- Please provide a 60-word session description that may be published in the chronological schedule and printed publications -->
